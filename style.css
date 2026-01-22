@@ -223,14 +223,14 @@ main {
 
 .p1 {
   position: absolute;
-  color: #ffffff;
+  color: #ffb2b2;
   font-size: 1.1rem;
   bottom: 5px;
 }
 
 .p2 {
   position: absolute;
-  color: #ffffff;
+  color: #dfff75;
   font-size: 1.7rem;
   top: 20px;
   letter-spacing: clamp(0.09, 0.14em, 1rem);
