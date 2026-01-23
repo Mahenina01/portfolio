@@ -165,7 +165,7 @@ main {
   position: relative;
   width: 260px;
   height: 320px;
-  background: var(--primary);
+  background: #1f151ec0;
   border-bottom-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-right-radius: 50%;
@@ -180,7 +180,7 @@ main {
   top: 0px;
   left: 10px;
   filter: blur(25px);
-  background: linear-gradient(#6a006a, #77006b, #610008);
+  background: linear-gradient(#2d2c2d, #353535, #eeeeee);
   /*background:linear-gradient(#6a0009,#770000,#610008);*/
   background-attachment: fixed;
   transition: all .2s ease-in-out;
