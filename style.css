@@ -391,5 +391,6 @@ img:hover {
     opacity: 1;
     transform: translateX(0%);
     width: 100%;
+    background-color:rgba(200,50,66,0.08);
   }
 }
