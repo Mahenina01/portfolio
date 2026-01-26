@@ -12,6 +12,8 @@ function handleIndicator(element){
 
     //ajout element 
     element.style.color='#dc45fe';
+   // element.style.color='#ff0000';
+
 }
 
 items.forEach((item)=>{
